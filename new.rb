@@ -4,3 +4,4 @@ while joke_count <= 9
   puts joke_count
   joke_count += 1
 end
+puts "LOL"
